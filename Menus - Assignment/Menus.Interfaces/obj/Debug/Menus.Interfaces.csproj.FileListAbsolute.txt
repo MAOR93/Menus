@@ -1,0 +1,6 @@
+C:\Users\maor\Desktop\C19 Ex04 BenVahaba 200400216 MaorKamilyan 204686042\Menus.Interfaces\obj\Debug\Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\maor\Desktop\C19 Ex04 BenVahaba 200400216 MaorKamilyan 204686042\Menus.Interfaces\bin\Debug\Menus.Interfaces.dll
+C:\Users\maor\Desktop\C19 Ex04 BenVahaba 200400216 MaorKamilyan 204686042\Menus.Interfaces\bin\Debug\Menus.Interfaces.pdb
+C:\Users\maor\Desktop\C19 Ex04 BenVahaba 200400216 MaorKamilyan 204686042\Menus.Interfaces\obj\Debug\Menus.Interfaces.csprojAssemblyReference.cache
+C:\Users\maor\Desktop\C19 Ex04 BenVahaba 200400216 MaorKamilyan 204686042\Menus.Interfaces\obj\Debug\Menus.Interfaces.dll
+C:\Users\maor\Desktop\C19 Ex04 BenVahaba 200400216 MaorKamilyan 204686042\Menus.Interfaces\obj\Debug\Menus.Interfaces.pdb

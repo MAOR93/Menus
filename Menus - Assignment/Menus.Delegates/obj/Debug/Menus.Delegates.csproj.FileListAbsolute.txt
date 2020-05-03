@@ -1,0 +1,6 @@
+C:\Users\maor\Desktop\C19 Ex04 BenVahaba 200400216 MaorKamilyan 204686042\Menus.Delegates\bin\Debug\Menus.Delegates.dll
+C:\Users\maor\Desktop\C19 Ex04 BenVahaba 200400216 MaorKamilyan 204686042\Menus.Delegates\bin\Debug\Menus.Delegates.pdb
+C:\Users\maor\Desktop\C19 Ex04 BenVahaba 200400216 MaorKamilyan 204686042\Menus.Delegates\obj\Debug\Menus.Delegates.csprojAssemblyReference.cache
+C:\Users\maor\Desktop\C19 Ex04 BenVahaba 200400216 MaorKamilyan 204686042\Menus.Delegates\obj\Debug\Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\maor\Desktop\C19 Ex04 BenVahaba 200400216 MaorKamilyan 204686042\Menus.Delegates\obj\Debug\Menus.Delegates.dll
+C:\Users\maor\Desktop\C19 Ex04 BenVahaba 200400216 MaorKamilyan 204686042\Menus.Delegates\obj\Debug\Menus.Delegates.pdb
